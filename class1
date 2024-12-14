@@ -17,7 +17,7 @@
           <mxGeometry y="150" width="310" height="132" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-4" value="QuanTri" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="70" width="160" height="84" as="geometry" />
+          <mxGeometry x="490" y="60" width="160" height="84" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-5" value="&lt;div&gt;+ MaQuanTri: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="a4WKpl4nKVi6vuHnkJHB-4">
           <mxGeometry y="26" width="160" height="24" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry y="58" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-8" value="ThuThu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="600" width="200" height="130" as="geometry" />
+          <mxGeometry x="480" y="250" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-9" value="&lt;div&gt;+ MaThuThu: String&lt;/div&gt;&lt;div&gt;+ BangCap: String&lt;/div&gt;&lt;div&gt;+ NgayBatDauLamViec: DateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="a4WKpl4nKVi6vuHnkJHB-8">
           <mxGeometry y="26" width="200" height="54" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry y="88" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-12" value="DocGia" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="450" width="220" height="150" as="geometry" />
+          <mxGeometry x="75" y="400" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-13" value="&lt;div&gt;+ MaDocGia: String&lt;/div&gt;&lt;div&gt;+ CCCD: String&lt;/div&gt;&lt;div&gt;+ NgayDangKy: DateTime&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="a4WKpl4nKVi6vuHnkJHB-12">
           <mxGeometry y="26" width="220" height="54" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry y="128" width="220" height="112" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-20" value="PhieuMuon" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="480" width="250" height="270" as="geometry" />
+          <mxGeometry x="310" y="600" width="250" height="270" as="geometry" />
         </mxCell>
         <mxCell id="a4WKpl4nKVi6vuHnkJHB-21" value="&lt;div&gt;+ MaPhieuMuon: String&lt;/div&gt;&lt;div&gt;+ MaDocGia: String&lt;/div&gt;&lt;div&gt;+ NgayMuon: DateTime&lt;/div&gt;&lt;div&gt;+ NgayTra: DateTime&lt;/div&gt;&lt;div&gt;+ TienPhat: Decimal&lt;/div&gt;&lt;div&gt;+ TrangThai: String&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="a4WKpl4nKVi6vuHnkJHB-20">
           <mxGeometry y="26" width="250" height="104" as="geometry" />
